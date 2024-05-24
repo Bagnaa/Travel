@@ -1,0 +1,66 @@
+body{
+    padding: 0;
+    margin: 0;
+    color: white;
+    overflow: hidden;
+}
+.page{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 4rem;
+}
+.page a{
+    padding: 8px 20px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+#page-1{
+    background: url(5c77d7f1-4628-45c9-84e9-ed6da2f1e629-Amazing_landscape_naiman_lake_bayar.jpg)
+    no-repeat center center/cover;
+}
+.page{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 4rem;
+}
+.page a{
+    padding: 8px 20px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+#page-2{
+    background: url(china-mountains-house-trees-wallpaper-preview.jpg)
+    no-repeat center center/cover;
+}
+.page{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 4rem;
+}
+.page a{
+    padding: 8px 20px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+}
+#page-3{
+    background: url(71wjFJ8V29L._AC_UF894,1000_QL80_.jpg)
+    no-repeat center center/cover;
+}
